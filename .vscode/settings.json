@@ -1,0 +1,18 @@
+{
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 13,
+    "window.zoomLevel": 0,
+    "workbench": {
+        "colorTheme": "Adapta Nokto",
+        "iconTheme": "bearded-icons",
+        "productIconTheme": "feather-vscode"
+    },
+    "errorLens": {
+        "statusBarColorsEnabled": true,
+        "statusBarMessageEnabled": true,
+        "statusBarMessageType": "closestProblem",
+        "gutterIconsEnabled": true,
+        "scrollbarHackEnabled": true,
+        "fontStyleItalic": true
+    },
+}
