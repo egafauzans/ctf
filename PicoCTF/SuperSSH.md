@@ -1,4 +1,4 @@
-# Binary Search
+# Super SSH
 
 Using a Secure Shell (SSH) is going to be pretty important.
 
@@ -6,7 +6,7 @@ Can you ssh as *ctf-player* to *titan.picoctf.net* at port *64606* to get the fl
 
 You'll also need the password *83dcefb7*. If asked, accept the fingerprint with *yes*.
 
-![alt text](/PicoCTF/images/BinarySearch.png)
+![alt text](/PicoCTF/images/SuperSSH.png)
 
 ### 1. Open Terminal
 Open your terminal (command prompt or powershell if you using windows operating system).
