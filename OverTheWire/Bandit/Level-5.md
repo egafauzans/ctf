@@ -40,7 +40,7 @@ find ./ -type f -size 1033c ! -executable -readable 2>/dev/null
 | -readable | This ensures that the search includes only files that the current user can read (human-readable). |
 | 2>/dev/null | This part redirects error messages (like permission errors) to `/dev/null`, which effectively hides them from the terminal output. |
 
-After that, you will find the corresponding file which is `./maybehere07/.file2`. Kamu menggunakan perintah `more` untuk membuka dan membaca isi file tersebut:
+After that, you will find the corresponding file which is `./maybehere07/.file2`. You use the `more` command to open and read the contents of the file:
 
 ```
 more ./maybehere07/.file2
