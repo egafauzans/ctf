@@ -25,6 +25,10 @@ more data.txt
 
 To display the unique lines from `data.txt` that appear only once, we first sort the file and then use uniq -u to remove any repeated lines, showing only the unique ones.
 
+```
+sort data.txt | uniq -u
+```
+
 | Option | Description |
 | ----------- | ----------- |
 | sort data.txt | This sorts the lines in `data.txt` in alphabetical or lexicographical order. |
