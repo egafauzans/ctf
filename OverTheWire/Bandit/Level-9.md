@@ -15,7 +15,7 @@ We can start by checking the contents of our current directory
 ls -al
 ```
 
-![alt text](image.png)
+![alt text](/OverTheWire/Bandit/images/Bandit9.png)
 
 The `strings` command extracts and prints all the human-readable text from `data.txt`. This is useful when a file contains both readable and non-readable characters (such as binary data), and we only want to see the text.
 
